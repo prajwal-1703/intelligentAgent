@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# AWS credentials
+BedRockAdmin_accessKeys.csv
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+*.db
+
+# IDE
+.vscode/
+.idea/
